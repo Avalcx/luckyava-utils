@@ -1,4 +1,4 @@
-module luckyava-utils
+module github.com/Avalcx/luckyava-utils
 
 go 1.22.4
 
